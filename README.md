@@ -9,4 +9,7 @@
 	- Estruturas Condicionais
 	- Estrutura de Repetição
 	- Leitura de arquivos
+- Aula 03
+	- Tabelas de frequência
+	- Dicionários e Funções
 
