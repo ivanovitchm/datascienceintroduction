@@ -12,4 +12,6 @@
 - Aula 03
 	- Tabelas de frequência
 	- Dicionários e Funções
-
+- Aula 04
+	- Projeto #01
+		- Investigando o perfil das aplicações em dispositivos móveis
