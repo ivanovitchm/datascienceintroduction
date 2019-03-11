@@ -15,3 +15,7 @@
 - Aula 04
 	- Projeto #01
 		- Investigando o perfil das aplicações em dispositivos móveis
+- Aula 05
+	- Introdução a pandas: uma visão de probabilidade
+	- Leitura, filtro, atribuição de dados
+	- Contagem
