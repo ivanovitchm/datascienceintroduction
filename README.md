@@ -24,4 +24,8 @@
 	- Filtrando dados a partir de vetores booleanos
 	- Alinhamento de dados
 	- Utilização de agregação de dados para análises mais complexas
+- Aula 07
+	- Imputação de dados
+	- Higienização dos dados
+	- Pivoteamento de tabelas
 
