@@ -28,4 +28,11 @@
 	- Imputação de dados
 	- Higienização dos dados
 	- Pivoteamento de tabelas
+- Aula 09
+	- Estudo de caso: taxa de desemprego
+	- Representação tabular vs visual
+	- Matplotlib
+	- Gráficos em linhas
+	- Multiplot
+	- Personalização 
 
