@@ -35,4 +35,6 @@
 	- Gráficos em linhas
 	- Multiplot
 	- Personalização 
-
+- Aula 10
+	- Gráficos de barra e dispersão
+	- Estudo de caso: enviesamento de dados
