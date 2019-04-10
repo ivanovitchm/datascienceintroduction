@@ -38,3 +38,6 @@
 - Aula 10
 	- Gráficos de barra e dispersão
 	- Estudo de caso: enviesamento de dados
+- Aula 11
+	- Gráficos de frequência (histograma) e boxplot (caixa)
+
