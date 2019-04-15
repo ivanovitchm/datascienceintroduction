@@ -40,4 +40,8 @@
 	- Estudo de caso: enviesamento de dados
 - Aula 11
 	- Gráficos de frequência (histograma) e boxplot (caixa)
-
+- Aula 12
+	- Amostragem de dados
+	- Amostragem aleatória
+	- Amostragem estratificada
+	- Amostragem por agrupamento
