@@ -45,3 +45,6 @@
 	- Amostragem aleatória
 	- Amostragem estratificada
 	- Amostragem por agrupamento
+- Aula 13
+	- Variáveis quantitativas e qualitativas
+	- Escala de medições: nominal, ordinal, intervalar e razão
