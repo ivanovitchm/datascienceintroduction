@@ -48,3 +48,11 @@
 - Aula 13
 	- Variáveis quantitativas e qualitativas
 	- Escala de medições: nominal, ordinal, intervalar e razão
+- Aula 14
+	- Tabelas de distribuição de frequências
+	- Ordenação de tabelas de distribuição de frequências (nominal, ordinal, intervalar, razão)
+	- Proporções e porcentagens
+	- Percentil e classificação de percentis
+	- Agrupamento de tabelas de distribuição de frequência
+	- Perda de informação
+
