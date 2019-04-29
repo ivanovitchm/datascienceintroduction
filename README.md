@@ -55,4 +55,15 @@
 	- Percentil e classificação de percentis
 	- Agrupamento de tabelas de distribuição de frequência
 	- Perda de informação
+- Aula 15
+	- Visualizando distribuições
+	- Gráficos de barra, pizza e histogramas
+	- Assimetria
+	- Distribuições simétricas
+	- Agrupamentos de gráficos de barras
+	- Comparando histogramas
+	- Estimativa de densidade kernel
+	- Gráficos de faixa e caixa
+	- Pontos fora da curva
+
 
