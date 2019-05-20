@@ -65,5 +65,12 @@
 	- Estimativa de densidade kernel
 	- Gráficos de faixa e caixa
 	- Pontos fora da curva
+- Aula 16
+	- Média
+	- A média como um ponto de equilíbrio
+	- Definindo a média algebricamente
+	- Estimando a média da população
+	- Estimando a média da população a partir de amostras pequenas
+
 
 
