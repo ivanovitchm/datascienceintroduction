@@ -71,6 +71,14 @@
 	- Definindo a média algebricamente
 	- Estimando a média da população
 	- Estimando a média da população a partir de amostras pequenas
+- Aula 17
+	- Média ponderada
+	- A mediana de distribuições abertas
+	- Cálculo da mediana
+	- A mediana como uma estatística de resistência
+	- A mediana para variáveis ordinais
+	- Sensitividade a mudanças
+	
 
 
 
