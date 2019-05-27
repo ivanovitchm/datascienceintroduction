@@ -78,6 +78,18 @@
 	- A mediana como uma estatística de resistência
 	- A mediana para variáveis ordinais
 	- Sensitividade a mudanças
+- Aula 18
+	- A moda
+		- Variáveis ordinais
+		- Variáveis nominais
+		- Variáveis discretas
+	- Casos especiais
+		- Unimodal
+		- Bimodal
+		- Multimodal
+	- Distribuições assimétricas
+	- Distribuições simétricas
+
 	
 
 
