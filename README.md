@@ -89,6 +89,13 @@
 		- Multimodal
 	- Distribuições assimétricas
 	- Distribuições simétricas
+- Aula 19
+	- Faixa
+	- Distância Média
+	- Desvio médio absoluto
+	- Variância e desvio padrão
+	- Desvio padrão da amostra
+	- Correção de Bessel
 
 	
 
