@@ -96,6 +96,13 @@
 	- Variância e desvio padrão
 	- Desvio padrão da amostra
 	- Correção de Bessel
+- Aula 20
+	- Definição de Z-Score
+	- Distribuição padrão
+	- Entendendo melhor os pontos fora da curva
+	- Z-Score como medida de comparação
+	- Z-Table
+	- Transformação de Z-Score em valor
 
 	
 
