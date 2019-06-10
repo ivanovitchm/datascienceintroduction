@@ -103,6 +103,10 @@
 	- Z-Score como medida de comparação
 	- Z-Table
 	- Transformação de Z-Score em valor
+- Aula 21
+	- Correlação e covariância
+	- Coeficiente de correlação
+
 
 	
 
