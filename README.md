@@ -106,6 +106,9 @@
 - Aula 21
 	- Correlação e covariância
 	- Coeficiente de correlação
+- Aula 22
+	- Estimando probabilidades
+	- Regras básicas de probabilidade
 
 
 	
