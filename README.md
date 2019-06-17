@@ -109,6 +109,11 @@
 - Aula 22
 	- Estimando probabilidades
 	- Regras básicas de probabilidade
+- Aula 23
+	- Resolvendo problemas complexos com probabilidade
+	- Probabilidade condicional
+	- Teorema de Bayes
+
 
 
 	
