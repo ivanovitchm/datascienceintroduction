@@ -1,118 +1,118 @@
-# IMD0033 - Probabilidade 2019.2
-
-- Aula 01
-	- Apresentação do curso
-- Aula 02
-	- Curso introdutório de python
-	- Expressões matemáticas
-	- Listas, Listas de Listas
-	- Estruturas Condicionais
-	- Estrutura de Repetição
-	- Leitura de arquivos
-- Aula 03
-	- Tabelas de frequência
-	- Dicionários e Funções
-- Aula 04
-	- Projeto #01
-		- Investigando o perfil das aplicações em dispositivos móveis
-- Aula 05
-	- Introdução a pandas: uma visão de probabilidade
-	- Leitura, filtro, atribuição de dados
-	- Contagem
-- Aula 06
-	- Filtrando dados com índices numéricos
-	- Filtrando dados a partir de vetores booleanos
-	- Alinhamento de dados
-	- Utilização de agregação de dados para análises mais complexas
-- Aula 07
-	- Imputação de dados
-	- Higienização dos dados
-	- Pivoteamento de tabelas
-- Aula 09
-	- Estudo de caso: taxa de desemprego
-	- Representação tabular vs visual
+# Data Science Introduction
+	
+- Class 01
+	- Presentation of the course
+- Class 02
+	- Introductory python course
+	- Math expressions
+	- Lists, Lists of Lists
+	- Conditional Structures
+	- Repetition Structure
+	- File reading
+- Class 03
+	- Frequency tables
+	- Dictionaries and Functions
+- Class 04
+	- Project #01
+	- Investigating the profile of applications on mobile devices
+- Class 05
+	- Introduction to pandas: a view of probability
+	- Read, filter, assign data
+	- Score
+- Class 06
+	- Filtering data with numerical indexes
+	- Filtering data from boolean arrays
+	- Data alignment
+	- Use of data aggregation for more complex analysis
+- Class 07
+	- Data imputation
+	- Data sanitization
+	- Table pivoting
+- Class 09
+	- Case study: unemployment rate
+	- Tabular vs visual representation
 	- Matplotlib
-	- Gráficos em linhas
+	- Line charts
 	- Multiplot
-	- Personalização 
-- Aula 10
-	- Gráficos de barra e dispersão
-	- Estudo de caso: enviesamento de dados
-- Aula 11
-	- Gráficos de frequência (histograma) e boxplot (caixa)
-- Aula 12
-	- Amostragem de dados
-	- Amostragem aleatória
-	- Amostragem estratificada
-	- Amostragem por agrupamento
-- Aula 13
-	- Variáveis quantitativas e qualitativas
-	- Escala de medições: nominal, ordinal, intervalar e razão
-- Aula 14
-	- Tabelas de distribuição de frequências
-	- Ordenação de tabelas de distribuição de frequências (nominal, ordinal, intervalar, razão)
-	- Proporções e porcentagens
-	- Percentil e classificação de percentis
-	- Agrupamento de tabelas de distribuição de frequência
-	- Perda de informação
-- Aula 15
-	- Visualizando distribuições
-	- Gráficos de barra, pizza e histogramas
-	- Assimetria
-	- Distribuições simétricas
-	- Agrupamentos de gráficos de barras
-	- Comparando histogramas
-	- Estimativa de densidade kernel
-	- Gráficos de faixa e caixa
-	- Pontos fora da curva
-- Aula 16
-	- Média
-	- A média como um ponto de equilíbrio
-	- Definindo a média algebricamente
-	- Estimando a média da população
-	- Estimando a média da população a partir de amostras pequenas
-- Aula 17
-	- Média ponderada
-	- A mediana de distribuições abertas
-	- Cálculo da mediana
-	- A mediana como uma estatística de resistência
-	- A mediana para variáveis ordinais
-	- Sensitividade a mudanças
-- Aula 18
-	- A moda
-		- Variáveis ordinais
-		- Variáveis nominais
-		- Variáveis discretas
-	- Casos especiais
-		- Unimodal
-		- Bimodal
-		- Multimodal
-	- Distribuições assimétricas
-	- Distribuições simétricas
-- Aula 19
-	- Faixa
-	- Distância Média
-	- Desvio médio absoluto
-	- Variância e desvio padrão
-	- Desvio padrão da amostra
-	- Correção de Bessel
-- Aula 20
-	- Definição de Z-Score
-	- Distribuição padrão
-	- Entendendo melhor os pontos fora da curva
-	- Z-Score como medida de comparação
+	- Personalization
+- Class 10
+	- Bar and scatter charts
+	- Case study: data bias
+- Class 11
+	- Frequency graphs (histogram) and boxplot (box)
+- Class 12
+	- Data sampling
+	- random sampling
+	- Stratified sampling
+	- Sampling by cluster
+- Class 13
+	- Quantitative and qualitative variables
+	- Scale of measurements: nominal, ordinal, interval and ratio
+- Class 14
+	- Frequency distribution tables
+	- Sorting of frequency distribution tables (nominal, ordinal, interval, ratio)
+	- Proportions and percentages
+	- Percentile and percentile ranking
+	- Grouping of frequency distribution tables
+	- Loss of information
+- Class 15
+	- Viewing distributions
+	- Bar, pie and histogram charts
+	- Asymmetry
+	- Symmetric distributions
+	- Bar chart groupings
+	- Comparing histograms
+	- Kernel density estimation
+	- Stripe and box charts
+	- Points outside the curve
+- Class 16
+	- Average
+	- The average as a break-even point
+	- Defining the mean algebraically
+	- Estimating the population mean
+	- Estimating the population mean from small samples
+- Class 17
+	- weighted average
+	- The median of open distributions
+	- Calculation of the median
+	- The median as a strength statistic
+	- The median for ordinal variables
+	- Sensitivity to changes
+- Class 18
+	- The fashion
+	- Ordinal variables
+	- Nominal variables
+	- Discrete variables
+	- Special cases
+	- Unimodal
+	- Bimodal
+	- Multimodal
+	- Asymmetric distributions
+	- Symmetric distributions
+- Class 19
+	- Range
+	- Average Distance
+	- Average absolute deviation
+	- Variance and standard deviation
+	- Sample standard deviation
+	- Bessel correction
+- Class 20
+	- Definition of Z-Score
+	- standard distribution
+	- Better understanding of off-curve points
+	- Z-Score as a measure of comparison
 	- Z-Table
-	- Transformação de Z-Score em valor
-- Aula 21
-	- Correlação e covariância
-	- Coeficiente de correlação
-- Aula 22
-	- Estimando probabilidades
-	- Regras básicas de probabilidade
-- Aula 23
-	- Resolvendo problemas complexos com probabilidade
-	- Probabilidade condicional
-	- Teorema de Bayes
+	- Transformation of Z-Score into value
+- Class 21
+	- Correlation and covariance
+	- Correlation coefficient
+- Class 22
+	- Estimating probabilities
+	- Basic rules of probability
+- Class 23
+	- Solving complex problems with probability
+	- conditional probability
+	- Bayes' theorem
 
 
 
